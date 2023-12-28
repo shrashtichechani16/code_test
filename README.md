@@ -5,3 +5,4 @@ run following command to migrate: python manage.py migrate
 run following command to runserver: python manage.py runserver
 harbie is the name of project
 student is the app name
+add your email id and password to perform send mail functionality : IN harbie>settings.py  add EMAIL_HOST_USER and EMAIL_HOST_PASSWORD
